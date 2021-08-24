@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Photo Library
+
+  Created by Артур Кононович on 28.07.21.
+  
+*/
+
+"Login" = "Войти";
+"Password" = "Пароль";
+"Confirm password" = "Повторите пароль";
+
+"Error" = "Ошибка";
+"Password mismatch" = "Пароли не совпадают";
+"Wrong password" = "Неправильный пароль";
+
+"Choose image source" = "Выберите источник изображения";
+"Photos" = "Фото";
+"Camera" = "Камера";
+"Cancel" = "Отмена";
+
+"Comment..." = "Комментарий...";
